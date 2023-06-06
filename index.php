@@ -1,3 +1,26 @@
+<?php
+    session_start();
+
+    require_once('logic/dbconnection.php');
+
+    if(isset($_POST['submit']))
+{
+    // fetch form data
+    $fullname=$_POST['fullname'];
+    $email=$_POST['email'];
+    $message=$_POST['message'];
+
+    // submit form data
+
+    $data=mysqli_query($conn, "INSERT INTO 
+    message(fullname,email,message)VALUES('$fullname','$email',' $message')"); 
+
+}
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -172,11 +195,11 @@
                     <a href="images/my-cv.pdf" download class="btn btn2">Download CV</a>
                 </div>
                 <div class="contact-right">
-                    <form name="submit-to-google-sheet">
-                        <input type="text" name="Name" placeholder="Your Name" required>
+                    <form method="post">
+                        <input type="text" name="Name" placeholder="fullname" required>
                         <input type="email" name="Email" placeholder="Your Email" required>
                         <textarea name="Message"  rows="6" placeholder="Your Message"></textarea>
-                        <button type="submit" class="btn btn2">Submit</button>
+                        <button type="submit" name="submit" class="btn btn2">Submit</button>
                     </form>
                     <span id="msg"></span>
                 </div>
