@@ -6,8 +6,14 @@
                 </div>
                 <div class="about-col-2">
                     <h1 class="sub-title">About Me</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias, quae. Consequatur odit quasi nemo reiciendis. Praesentium adipisci voluptatum quas aperiam officia aliquid perspiciatis fugiat deserunt magni asperiores quasi recusandae inventore voluptas doloremque eligendi expedita, repellendus soluta sed 
-                        consequuntur. Minima deleniti quo beatae eveniet quisquam consequuntur ut, nam distinctio eos quia?</p>
+                    <p>Hello! I'm Emmanuel, a passionate and skilled software developer. With two years of professional experience, 
+                        I have honed my expertise in HTML,CSS,KOTLIN,DART and JAVA. 
+                        My commitment to delivering high-quality, scalable, and user-friendly solutions drives me to 
+                        stay updated with the latest industry advancements. I thrive in collaborative environments, 
+                        where my communication and adaptability skills shine. As a firm believer in continuous improvement, 
+                        I relish new challenges and constantly push the boundaries of what's possible in the dynamic world 
+                        of software development. Thank you for visiting my portfolio, and I'm excited to explore innovative 
+                        opportunities together! Let's create something extraordinary.</p>
 
                         <div class="tab-titles">
                             <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
