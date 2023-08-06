@@ -3,7 +3,7 @@
             <h1 class="sub-title">My Work</h1>
             <div class="work-list">
                 <div class="work">
-                    <img src="img/work-1.png">
+                    <img src="img/app.png">
                     <div class="layer">
                         <h3>Social Media App</h3>
                         <p>"PeakConnect: Redefining social media. Foster genuine connections through 
@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="img/work-2.png">
+                    <img src="img/music.jpeg">
                     <div class="layer">
                         <h3>Music App</h3>
                         <p>"HarmonyHub: Your ultimate music companion. Discover, stream, and create with ease. 
@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="img/work-3.png">
+                    <img src="img/shop.png">
                     <div class="layer">
                         <h3>Online Shopping App</h3>
                         <p>"Introducing a cutting-edge online shopping app designed to provide an effortless and enjoyable 
