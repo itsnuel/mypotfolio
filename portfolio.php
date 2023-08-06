@@ -6,17 +6,19 @@
                     <img src="img/work-1.png">
                     <div class="layer">
                         <h3>Social Media App</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro quasi omnis excepturi. Officia minima
-                             praesentium, dolorum nemo reprehenderit dolores odit.</p>
+                        <p>"PeakConnect: Redefining social media. Foster genuine connections through 
+                            real-time interactions, user-generated challenges, and global discoveries. 
+                            Share, engage, and connect authentically."</p>
                              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                             
                     </div>
                 </div>
                 <div class="work">
                     <img src="img/work-2.png">
                     <div class="layer">
                         <h3>Music App</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro quasi omnis excepturi. Officia minima
-                             praesentium, dolorum nemo reprehenderit dolores odit.</p>
+                        <p>"HarmonyHub: Your ultimate music companion. Discover, stream, and create with ease. 
+                            Personalized recommendations for your perfect playlist."</p>
                              <a href="#"><i class="fas fa-external-link-alt"></i></a>
                     </div>
                 </div>
@@ -24,8 +26,11 @@
                     <img src="img/work-3.png">
                     <div class="layer">
                         <h3>Online Shopping App</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro quasi omnis excepturi. Officia minima
-                             praesentium, dolorum nemo reprehenderit dolores odit.</p>
+                        <p>"Introducing a cutting-edge online shopping app designed to provide an effortless and enjoyable 
+                            shopping experience. Our app offers a user-friendly interface that allows shoppers to browse a 
+                            vast collection of products from various categories, all at their fingertips. With intuitive 
+                            navigation, seamless search functionality, and personalized recommendations, users can easily 
+                            find their desired items.</p>
                              <a href="#"><i class="fas fa-external-link-alt"></i></a>
                     </div>
                 </div>
