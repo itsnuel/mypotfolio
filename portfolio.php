@@ -16,22 +16,24 @@
                 <div class="work">
                     <img src="img/music.jpeg">
                     <div class="layer">
-                        <h3>Music App</h3>
-                        <p>"HarmonyHub: Your ultimate music companion. Discover, stream, and create with ease. 
-                            Personalized recommendations for your perfect playlist."</p>
-                             <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                        <h3>Ticket App</h3>
+                        <p>"I crafted an intuitive ticketing app that simplifies the process of buying and managing event tickets. 
+                            With a user-friendly interface, attendees can effortlessly explore events, select seats, and securely 
+                            purchase tickets. The app also offers personalized profiles for users to track purchased tickets and 
+                            receive event updates via QR codes. Event organizers benefit from a comprehensive dashboard for managing 
+                            listings, monitoring sales, and gaining attendee insights. By combining responsive design, secure payments, 
+                            and real-time updates, the app elevates the event experience for all."</p>
+                             <a href="https://github.com/itsnuel/Tickets"><i class="fas fa-external-link-alt"></i></a>
                     </div>
                 </div>
                 <div class="work">
                     <img src="img/shop.png">
                     <div class="layer">
-                        <h3>Online Shopping App</h3>
-                        <p>"Introducing a cutting-edge online shopping app designed to provide an effortless and enjoyable 
-                            shopping experience. Our app offers a user-friendly interface that allows shoppers to browse a 
-                            vast collection of products from various categories, all at their fingertips. With intuitive 
-                            navigation, seamless search functionality, and personalized recommendations, users can easily 
-                            find their desired items.</p>
-                             <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                        <h3>Food App</h3>
+                        <p>Introducing FoodEaze, the ultimate food lover's companion that brings a world of flavors to your smartphone. 
+                            Designed to revolutionize the way people experience dining and cooking, FoodEaze seamlessly combines the joy 
+                            of discovery with the convenience of modern technology.</p>
+                             <a href="https://github.com/itsnuel/foodapp2"><i class="fas fa-external-link-alt"></i></a>
                     </div>
                 </div>
             </div>
